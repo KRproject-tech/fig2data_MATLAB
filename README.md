@@ -1,6 +1,8 @@
 # fig2data_MATLAB
 Extract data from the figure file of MATLAB ("*.fig").
 
+"legend" must be eliminated from the figure to load data by fig2data.
+
 ## Usage
 
 __[2D case]__ 
